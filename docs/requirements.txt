@@ -13,5 +13,4 @@ progressbar33
 PyQt5==5.15.7
 rasterio
 scikit_image
-skimage
 xmltodict
