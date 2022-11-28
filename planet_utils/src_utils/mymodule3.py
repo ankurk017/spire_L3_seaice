@@ -1,7 +1,6 @@
 """
 Module containing a third class.
 """
-from planet_utils.mymodule1 import myClass1
 from planet_utils.planet import *
 
 class myClass3(myClass1):
