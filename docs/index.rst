@@ -11,7 +11,7 @@ PlanetScope, operated by Planet, is a constellation of approximately 130 satelli
 
 
 .. toctree::
-
+   :maxdepth: 2
    Home page <self>
    usage
    Jupyter tutorials <tutorials>
