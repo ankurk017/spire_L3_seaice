@@ -1,4 +1,4 @@
-﻿planet\_utils.planet\_GUI
+planet\_utils.planet\_GUI
 =========================
 
 .. automodule:: planet_utils.planet_GUI
