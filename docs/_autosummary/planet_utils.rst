@@ -26,6 +26,8 @@
    :template: custom-module-template.rst
    :recursive:
 
+   planet_utils.ahps
+   planet_utils.coast
    planet_utils.planet
    planet_utils.planet_GUI
    planet_utils.planet_training_dataset_gui
